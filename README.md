@@ -1,9 +1,9 @@
-![alt-text](https://github.com/Abhishek010397/AIMLPython/blob/master/Output1.jpg)
+![alt-text](https://github.com/Abhishek010397/MachineLearning-ModelTraining/blob/master/Output1.png)
 
-![alt-text](https://github.com/Abhishek010397/AIMLPython/blob/master/Output2.jpg)
+![alt-text](https://github.com/Abhishek010397/MachineLearning-ModelTraining/blob/master/Output2.png)
 
-![alt-text](https://github.com/Abhishek010397/AIMLPython/blob/master/Output3.jpg)
+![alt-text](https://github.com/Abhishek010397/MachineLearning-ModelTraining/blob/master/Output3.png)
 
-![alt-text](https://github.com/Abhishek010397/AIMLPython/blob/master/Output4.jpg)
+![alt-text](https://github.com/Abhishek010397/MachineLearning-ModelTraining/blob/master/Output4.png)
 
-![alt-text](https://github.com/Abhishek010397/AIMLPython/blob/master/Output5.jpg)
+![alt-text](https://github.com/Abhishek010397/MachineLearning-ModelTraining/blob/master/Output5.png)
