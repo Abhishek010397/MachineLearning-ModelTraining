@@ -173,21 +173,25 @@ for i in os.listdir(dir_path):
     X = np.expand_dims(X, axis=0)
     images = np.vstack([X])
     result = model.predict(images)
+    # print('Car Result',result)
     if result == 0:
         print('Car')
     else:
         result1 = model_truck_bus.predict(images)
+        # print("Truck Result",result1)
         if result1 == 1:
             print('Truck Or Bus')
         else:
             result2=model_bikes_scooty.predict(images)
+            # print('Bike Result',result2)
             if result2 == 0:
                 print("Bike Or Scooty")
             else:
                 result3=model_autorickshaw.predict(images)
+                # print("AutoRickshaw Result",result3)
                 if result3 == 0:
                     print('Autorickshaw')
                 else:
-                    print("Not A Part Of Vehicle Classes")
+                    print("Not A Vehicle")
     plt.imshow(img)
     plt.show()
